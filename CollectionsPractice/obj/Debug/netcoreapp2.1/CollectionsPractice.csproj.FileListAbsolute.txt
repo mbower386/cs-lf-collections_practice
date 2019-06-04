@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-collections_practice/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.pdb
